@@ -27,3 +27,4 @@ import { InvoicesModule } from "./invoices/invoices.module";
   bootstrap: [AppComponent]
 })
 export class AppModule {}
+
