@@ -12,7 +12,7 @@
 ## How to run application :
 1. Browse application to IDE
 2. Install angularcli,and then npm install
-3. Run command npm start under server
+3. Run command npm run start : server
 4. Run command ng serve -o under frontend
 
 ## Dependencies:
