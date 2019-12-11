@@ -15,14 +15,12 @@
 3. Run command npm start under server
 4. Run command ng serve -o under frontend
 
-## Dependencies :
+## Dependencies:
 - npm install @angular/cli
 - Rest APIs are created
 - Mongodb is used to store the data
 - Mongoose is used to connect to the MongoDB
 
-## Technologies used :
-- [x] HTML
-- [x] SCSS
-- [x] Angular 7
-- [x] Node JS
+## Technologies:
+- [x] Angular: frontend
+- [x] Node JS: backend
