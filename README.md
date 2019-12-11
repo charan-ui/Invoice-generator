@@ -17,10 +17,12 @@
 
 ## Dependencies :
 npm install @angular/cli
-npm install nodemailer
+Rest APIs are created
+Mongodb is used to store the data
+Mongoose is used to connect to the MongoDB
 
 ## Technologies used :
-[x] HTML
-[x] SCSS
-[x] Angular 7
-[x] Node JS
+- [x] HTML
+- [x] SCSS
+- [x] Angular 7
+- [x] Node JS
